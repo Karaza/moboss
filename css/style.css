@@ -1,0 +1,35 @@
+@media (max-width: 992px) {
+  #actions h3 {
+    font-size: 1.2rem;
+  }
+
+  #actions h4,
+  #actions i {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  #actions h3 {
+    font-size: 1.6rem;
+  }
+
+  #actions h4,
+  #actions i {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  td {
+    font-size: 0.9rem;
+  }
+
+  table i.fas .fa-angle-double-right {
+    font-size: 1rem;
+  }
+
+  table .btn-secondary {
+    font-size: 0.9rem;
+  }
+}
